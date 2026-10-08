@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f1f1f"/>
+      <stop offset="100%" stop-color="#0f2027"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="70" y="70" width="260" height="360" rx="16" fill="#ffffff" opacity="0.06"/>
+  <rect x="360" y="90" width="370" height="30" rx="6" fill="#ffffff" opacity="0.12"/>
+  <rect x="360" y="140" width="370" height="24" rx="6" fill="#ffffff" opacity="0.08"/>
+  <rect x="360" y="180" width="370" height="24" rx="6" fill="#ffffff" opacity="0.08"/>
+  <rect x="360" y="220" width="270" height="24" rx="6" fill="#ffffff" opacity="0.08"/>
+  <circle cx="200" cy="190" r="50" fill="#3fbfbf" opacity="0.55"/>
+  <rect x="135" y="260" width="130" height="12" rx="6" fill="#ffffff" opacity="0.14"/>
+  <rect x="145" y="290" width="110" height="12" rx="6" fill="#ffffff" opacity="0.1"/>
+  <rect x="120" y="340" width="160" height="40" rx="10" fill="#5c7ae5" opacity="0.5"/>
+  <text x="400" y="465" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle" fill="#3fbfbf">PLACEHOLDER - Ganti dengan screenshot aplikasi Android</text>
+</svg>
